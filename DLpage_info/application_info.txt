@@ -1,0 +1,17 @@
+◆表示アプリ名
+メール送信一括君 NEO
+
+◆主な機能
+月に一度の取引先担当者との定期連絡メール作成
+Pardot などのマーケティングツールで送信できない対象への複数メール配信
+送信者の表記名を任意に変更可能（v2.0 〜）
+
+◆対象部署
+営業部
+管理部
+
+◆作成言語
+Python 3.10 以上 / Microsoft Excel 2019
+
+◆ダウンロードリンク
+https://sangyoui365.sharepoint.com/:u:/s/sangyoui_portal/Ee85_sgsX_RImJkf2JK4QoABpqMqIRJvsgkmx49LGhl21Q?e=X67Jwa&download=1
