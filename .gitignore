@@ -19,3 +19,4 @@ obj/
 *.zip
 *.log
 *.tmp
+.git/
