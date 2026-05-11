@@ -18,11 +18,13 @@ import win32com.client as win32
 from PIL import Image
 
 # グローバル変数==========================================================================================
+
 dir_name = os.path.dirname(os.path.abspath(argv[0])) # exe化した際は実行している方のファイルのディレクトリ
 cwd = os.path.dirname(__file__)# exe化した際は一時ファイルの方のpyファイルのディレクトリ
 desktop_path = QStandardPaths.writableLocation(QStandardPaths.DesktopLocation) # デスクトップのパスを取得
 headers = []  # ヘッダーを予め設定
 recipients_data = []  # リストとして宛先データを保持
+
 #========================================================================================================
 
 class ImageSizeDialog(QDialog):
